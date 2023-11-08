@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-BeClean is a solution to address the challenge of increasing environmental awareness and encouraging community members to take action in cleaning their local areas. The core problem statement we aim to solve is:
+BeClean is a solution to address the challenge of increasing environmental awareness and encouraging community members to take action in cleaning their local areas. The core problem statement I aim to solve is:
 
-"How can we use technology to increase environmental awareness and encourage people to take action in their communities? Specifically, how can we design an app that allows users to identify areas in need of cleaning, organize and participate in cleaning events, and receive rewards for their efforts?"
+"How can I use technology to increase environmental awareness and encourage people to take action in their communities? Specifically, how can I design an app that allows users to identify areas in need of cleaning, organize and participate in cleaning events, and receive rewards for their efforts?"
 
 This problem statement highlights the main issue the app intends to tackle and outlines its key features, which include:
 
@@ -14,7 +14,7 @@ This problem statement highlights the main issue the app intends to tackle and o
 
 ## Motivation
 
-Our motivation for developing BeClean is to create a positive impact on the environment and communities. We believe that by providing an easy-to-use platform that empowers individuals to make a difference, we can contribute to a cleaner and healthier world. By utilizing technology and gamification, we aim to make the process of environmental stewardship more engaging and rewarding, thereby inspiring more people to take action.
+My motivation for developing BeClean is to create a positive impact on the environment and communities. I believe that by providing an easy-to-use platform that empowers individuals to make a difference, I can contribute to a cleaner and healthier world. By utilizing technology and gamification, I aim to make the process of environmental stewardship more engaging and rewarding, thereby inspiring more people to take action.
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ Our motivation for developing BeClean is to create a positive impact on the envi
 
 ## Contributing
 
-We welcome contributions from the community to enhance the functionality and impact of BeClean. Feel free to open issues, propose new features, or submit pull requests.
+I welcome contributions from the community to enhance the functionality and impact of BeClean. Feel free to open issues, propose new features, or submit pull requests.
 
 ## License
 
@@ -41,8 +41,6 @@ This project is licensed under MIT - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-We would like to express our gratitude to [any individuals or organizations you want to acknowledge].
+I would like to express my gratitude to [any individuals or organizations you want to acknowledge].
 
 Let's come together, clean up our communities, and make a difference!
-
-
